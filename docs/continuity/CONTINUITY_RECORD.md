@@ -25,7 +25,7 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 
 ## Section 2 checkpoint
 
-- The public OS index now records a generic prompt for future Alchemy specifications and user-facing workflows. No private catalogue or C2O-specific material is included here.
+- The public OS index now records a generic prompt for future public Alchemy specifications and user-facing workflows. It contains no private research content; public source and rights review remains necessary before a specification is adopted.
 - UNIVERSALIS-App still needs its own public-source requirements, user workflows, and contracts with UNIVERSALIS-OS; no definitions or implementation are accepted by the prompt.
 
 ## Open work
