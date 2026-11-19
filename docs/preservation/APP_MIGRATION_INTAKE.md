@@ -36,3 +36,7 @@ UNIVERSALIS-App is the canonical home for public UNIVERSALIS user-facing product
 ## Completion rule
 
 A source item is migrated only when its destination is reviewed, its provenance and public cross-links work, and its relevant checks pass. Do not import private C2O content, private source paths, personal data, credentials, or private operational evidence. Keep source repositories and their histories intact while migration is underway. Repository closure is outside this App intake process and requires the full cross-repository reconciliation recorded in UNIVERSALIS-OS.
+
+## Continuity
+
+Use the [UNIVERSALIS-App Continuity Record](../continuity/CONTINUITY_RECORD.md) as the dated restart point for public-safe completed work, evidence, open obligations, and the next action. Refresh it after material milestones; verify live repository and PR state when resuming. Do not disclose private C2O details.
