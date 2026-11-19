@@ -23,6 +23,11 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 - PR #1 adds a proposed migration intake for public UNIVERSALIS material that belongs in user-facing workflows and product behavior.
 - No legacy public source artifact or application implementation is claimed migrated or complete. PR #1 remains a draft.
 
+## Section 2 checkpoint
+
+- The public OS index now records a generic prompt for future Alchemy specifications and user-facing workflows. No private catalogue or C2O-specific material is included here.
+- UNIVERSALIS-App still needs its own public-source requirements, user workflows, and contracts with UNIVERSALIS-OS; no definitions or implementation are accepted by the prompt.
+
 ## Open work
 
 - Formalize the public App architecture, familiar initial AI-App experience, user workflows, world-based interaction, and immersive interfaces.
