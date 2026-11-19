@@ -69,4 +69,4 @@ Continue the full UNIVERSALIS-App architecture formalization using the same trac
 
 - 2026-11-19 — Added a generic public continuity checkpoint after RM-08. No private candidate recommendation or source material was copied; no feature or migration was accepted.
 
-- 2026-11-19 — Rechecked UNIVERSALIS-App after a separate project classification decision. No public candidate definition, product behavior, or private source material was added; public requirements remain subject to independent review.
+- 2026-11-19 — Rechecked public App status; no new candidate definition, product behavior, or source material was added. Public requirements remain subject to independent review.
