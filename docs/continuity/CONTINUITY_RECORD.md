@@ -36,6 +36,10 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 
 - The existing public OS and App proposals divide platform services/contracts from user-facing workflows. This is a provisional documentation map only. Any Guardian/world/XR or robotics feature must be specified from public sources, with rights, accessibility, privacy, security, hazard, and release review. No public design or implementation is accepted by this note.
 
+## Section RM-08 checkpoint
+
+- No public App Alchemy candidate or feature was accepted by this section. Continue public-source App formalization and require source, rights, privacy, and owner/maintainer review for any proposed feature or metric.
+
 ## Open work
 
 - Formalize the public App architecture, familiar initial AI-App experience, user workflows, world-based interaction, and immersive interfaces.
@@ -62,3 +66,5 @@ Continue the full UNIVERSALIS-App architecture formalization using the same trac
 - 2026-11-19 — Added a generic public App checkpoint for future support and influence requirements. No private C2O material, definition, or operational evidence was copied; no public feature is accepted or implemented.
 
 - 2026-11-19 — Added a generic RM-07 App continuity checkpoint for future public requirements across devices, immersive worlds, and robotics. No private C2O material or unrecovered design was copied; no public feature is accepted or implemented.
+
+- 2026-11-19 — Added a generic public continuity checkpoint after RM-08. No private candidate recommendation or source material was copied; no feature or migration was accepted.
