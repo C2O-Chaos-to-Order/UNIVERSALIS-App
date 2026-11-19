@@ -28,6 +28,10 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 - The public OS index now records a generic prompt for future public Alchemy specifications and user-facing workflows. It contains no private research content; public source and rights review remains necessary before a specification is adopted.
 - UNIVERSALIS-App still needs its own public-source requirements, user workflows, and contracts with UNIVERSALIS-OS; no definitions or implementation are accepted by the prompt.
 
+## Section RM-06 checkpoint
+
+- Future user-facing features that support decisions or influence choices need public-source research, accessible choice and refusal paths, and independent consent/authority and safety review. This is a generic design prompt only; no private C2O definition or research record is included, and no public feature is accepted or implemented.
+
 ## Open work
 
 - Formalize the public App architecture, familiar initial AI-App experience, user workflows, world-based interaction, and immersive interfaces.
@@ -39,7 +43,7 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 
 ## Next action
 
-Create the full UNIVERSALIS-App architecture formalization using the same traceability and acceptance discipline as UNIVERSALIS-OS, after reconciling its responsibilities and public contracts.
+Create the full UNIVERSALIS-App architecture formalization using the same traceability and acceptance discipline as UNIVERSALIS-OS, after reconciling its responsibilities and public contracts. Research any user-support or influence features from public sources and review consent, accessibility, refusal, privacy, authority, and release boundaries independently.
 
 ## Change history
 
@@ -51,3 +55,4 @@ Create the full UNIVERSALIS-App architecture formalization using the same tracea
 - 2026-11-19 — Rechecked public continuity during the next private preservation section; no private research or definitions were copied into this repository.
 
 - 2026-11-19 — Rechecked public continuity during the next private preservation section; no private research or definitions were copied into this repository.
+- 2026-11-19 — Added a generic public App checkpoint for future support and influence requirements. No private C2O material, definition, or operational evidence was copied; no public feature is accepted or implemented.
