@@ -32,6 +32,10 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 
 - Future user-facing features that support decisions or influence choices need public-source research, accessible choice and refusal paths, and independent consent/authority and safety review. This is a generic design prompt only; no private C2O definition or research record is included, and no public feature is accepted or implemented.
 
+## Section RM-07 checkpoint
+
+- The existing public OS and App proposals divide platform services/contracts from user-facing workflows. This is a provisional documentation map only. Any Guardian/world/XR or robotics feature must be specified from public sources, with rights, accessibility, privacy, security, hazard, and release review. No public design or implementation is accepted by this note.
+
 ## Open work
 
 - Formalize the public App architecture, familiar initial AI-App experience, user workflows, world-based interaction, and immersive interfaces.
@@ -43,7 +47,7 @@ This record provides a reliable restart point for UNIVERSALIS-App work without r
 
 ## Next action
 
-Create the full UNIVERSALIS-App architecture formalization using the same traceability and acceptance discipline as UNIVERSALIS-OS, after reconciling its responsibilities and public contracts. Research any user-support or influence features from public sources and review consent, accessibility, refusal, privacy, authority, and release boundaries independently.
+Continue the full UNIVERSALIS-App architecture formalization using the same traceability and acceptance discipline as UNIVERSALIS-OS. Define user-facing requirements and linked public OS contracts from public, rights-cleared sources, then map artifacts with provenance and verification. The RM-07 placement map is provisional; it authorizes no migration or publication.
 
 ## Change history
 
@@ -56,3 +60,5 @@ Create the full UNIVERSALIS-App architecture formalization using the same tracea
 
 - 2026-11-19 — Rechecked public continuity during the next private preservation section; no private research or definitions were copied into this repository.
 - 2026-11-19 — Added a generic public App checkpoint for future support and influence requirements. No private C2O material, definition, or operational evidence was copied; no public feature is accepted or implemented.
+
+- 2026-11-19 — Added a generic RM-07 App continuity checkpoint for future public requirements across devices, immersive worlds, and robotics. No private C2O material or unrecovered design was copied; no public feature is accepted or implemented.
