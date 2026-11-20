@@ -70,3 +70,5 @@ Continue the full UNIVERSALIS-App architecture formalization using the same trac
 - 2026-11-19 — Added a generic public continuity checkpoint after RM-08. No private candidate recommendation or source material was copied; no feature or migration was accepted.
 
 - 2026-11-19 — Rechecked public App status; no new candidate definition, product behavior, or source material was added. Public requirements remain subject to independent review.
+
+- 2026-11-19 — Updated the public App migration intake form with public source/artifact IDs, five-element ratings, classification, lifecycle stages, and preservation actions. The ratings remain a descriptive, uncalibrated working rubric; no artifact migration or score assignment occurred. The record contains no private source identifiers.
