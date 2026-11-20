@@ -12,14 +12,22 @@ UNIVERSALIS-App is the canonical home for public UNIVERSALIS user-facing product
 2. Record author/owner, original status, date, license/rights, dependencies, and exact claims or requirements it supports.
 3. Confirm that the material is intended for public release, rights-cleared, and free of private C2O content or inference risks.
 4. Decide whether it defines app behavior. Route OS or cross-app contracts to UNIVERSALIS-OS and record the public cross-reference.
-5. Select an operation: move verbatim, adapt, split, link, or retain as source-only history. Explain the choice; retain meaning and provenance.
+5. Select an operation: move verbatim, adapt, split, link, reimplement, or retain as source-only history. Explain the choice; retain meaning and provenance.
 6. Stage the proposed destination in a review branch. Include destination path, source-to-destination mapping, and any transformations.
 7. Verify content, links, identifiers, hashes where applicable, privacy/publication classification, and app-to-OS contract alignment.
 8. Record review and owner acceptance separately from evidence status. Update the public source index only after destination verification.
 
+## Elemental assessment and lifecycle
+
+Use separate Air, Earth, Fire, Water, and Spirit ratings with a short rationale for each. The working 0–5 scale is descriptive and uncalibrated; it is not a measurement and scores must not be aggregated as research results. Keep lifecycle states distinct: Discovered, Classified, Proposed, Simulated, Migrated, Verified, Accepted. No state implies the next. Use public source identifiers and omit private source paths, internal IDs, or private operational details.
+
 ## Intake record
 
 | Field | Entry |
+|---|---|
+| Public Source ID / Artifact ID | |
+| Alchemical class | Primary / Supporting / Shared specification / Historical / Duplicate / Unresolved / Obsolete |
+| Air / Earth / Fire / Water / Spirit ratings and rationale | |
 |---|---|
 | Migration ID | |
 | Public source repository / path / ref / blob | |
