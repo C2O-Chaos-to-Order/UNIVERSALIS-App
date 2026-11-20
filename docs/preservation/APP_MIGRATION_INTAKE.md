@@ -25,7 +25,9 @@ Use separate Air, Earth, Fire, Water, and Spirit ratings with a short rationale 
 
 | Field | Entry |
 |---|---|
-| Public Source ID / Artifact ID | |
+| Public Source ID | |
+| Public Artifact ID | |
+| Lifecycle status | Discovered / Classified / Proposed / Simulated / Migrated / Verified / Accepted |
 | Alchemical class | Primary / Supporting / Shared specification / Historical / Duplicate / Unresolved / Obsolete |
 | Air / Earth / Fire / Water / Spirit ratings and rationale | |
 | Migration ID | |
