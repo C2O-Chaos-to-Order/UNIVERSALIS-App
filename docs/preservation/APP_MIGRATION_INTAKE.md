@@ -28,7 +28,6 @@ Use separate Air, Earth, Fire, Water, and Spirit ratings with a short rationale 
 | Public Source ID / Artifact ID | |
 | Alchemical class | Primary / Supporting / Shared specification / Historical / Duplicate / Unresolved / Obsolete |
 | Air / Earth / Fire / Water / Spirit ratings and rationale | |
-|---|---|
 | Migration ID | |
 | Public source repository / path / ref / blob | |
 | Source author / owner / date / status | |
