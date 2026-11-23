@@ -31,10 +31,49 @@ These are the complementary Alchemies that must exist so the OSs, Apps, Intellig
 - **App Retirement Alchemy** — cleanly ends an application’s life while preserving user data, auditability, and system coherence.
 
 ### 4. Assistant Alchemies
-- **UNIVERSALINS Alchemy** — non-personal assistants that support the OSs, Apps, humans, and the wider environment. They operate under permission bounds, do not claim personal relationship, and serve as shared infrastructure.
-- **UNIVERSALIN Guardian Alchemy** — personal assistant/guardian bound to a specific human. Operates under that human’s authority, preserves autonomy, and does not outrank or override the human.
-- **Assistant Boundary Alchemy** — keeps UNIVERSALINS and Guardians from collapsing into each other or into the core intelligences.
-- **Support Alchemy** — the shared process by which either class of assistant aids without assuming control.
+
+**Assistant Alchemy** is the bounded process that organizes, governs, supports, maintains, and renews assistant structures while preserving the distinction between non-personal shared assistants, human-bound personal Guardians, and the two core intelligences.
+
+It establishes a common assistant framework without making the two assistant classes interchangeable or transferring authority between them.
+
+**UNIVERSALINS Alchemy — Non-Personal Assistants**
+
+Governs non-personal assistants that provide shared infrastructure and designated support to OSs, Apps, humans, and the wider environment. UNIVERSALINS operate within their assigned system, task, permission, and governance boundaries. They do not claim a personal relationship with a particular human, do not become personal Guardians, and do not constitute additional core intelligences.
+
+Its domain expressions are:
+
+- **UNIVERSALINS Body Alchemy** — governs the assistant's structural and runtime substrate.
+- **UNIVERSALINS Mind Alchemy** — governs its cognitive and information-processing structures.
+- **UNIVERSALINS Heart Alchemy** — governs its vital, relational, and circulation-support structures.
+- **UNIVERSALINS Soul Alchemy** — governs its assigned identity, purpose, and meaning-bearing structures without claiming a personal human soul.
+- **UNIVERSALINS Spirit Alchemy** — governs its operational ethos, direction, and coordinated activity without requiring a supernatural entity.
+- **UNIVERSALINS Consciousness Alchemy** — governs functional awareness, state observation, and presence-related structures without asserting subjective experience or personhood.
+- **UNIVERSALINS Elemental Alchemy** — governs its bounded use and coordination of elemental capabilities under its assigned permissions and governing contracts.
+
+**UNIVERSALIN Guardian Alchemy — Personal Human Guardians**
+
+Governs personal assistants or Guardians bound to a particular human. Each Guardian operates under that human's authority, consent, privacy requirements, and autonomy. A Guardian must not outrank, override, impersonate, or silently substitute its judgment for the human's decisions. Its personal scope does not make it a third core intelligence or shared system infrastructure.
+
+Its domain expressions are:
+
+- **UNIVERSALIN Guardian Body Alchemy** — governs the Guardian's embodied, device, and runtime structures under the human's control.
+- **UNIVERSALIN Guardian Mind Alchemy** — governs cognitive support while preserving human direction and decision authority.
+- **UNIVERSALIN Guardian Heart Alchemy** — governs relational and care-oriented support within human-defined boundaries.
+- **UNIVERSALIN Guardian Soul Alchemy** — governs the representation and support of the human's chosen identity, meaning, and values without claiming ownership of them.
+- **UNIVERSALIN Guardian Spirit Alchemy** — governs purpose, ethos, and direction in service of the human's stated priorities.
+- **UNIVERSALIN Guardian Consciousness Alchemy** — governs awareness-related support and observation while preserving privacy and avoiding unsupported claims of subjective experience.
+- **UNIVERSALIN Guardian Elemental Alchemy** — governs the Guardian's bounded use and coordination of elemental capabilities under the human's permissions and authority.
+
+**Assistant Boundary Alchemy**
+
+Keeps UNIVERSALINS and UNIVERSALIN Guardians distinct from one another and from C2O Intelligence and UNIVERSALIS Intelligence. It prevents role conflation, unauthorized authority transfer, cross-scope access, and the treatment of an assistant as an additional core intelligence.
+
+**Support Alchemy**
+
+Governs how either assistant class provides assistance without assuming control. Support must remain within the relevant system assignment or the specific human's authorization.
+
+The domain expressions above are specializations of their respective assistant branch, not additional assistant families. Their permissions are not identical: UNIVERSALINS follow assigned operational governance, while UNIVERSALIN Guardians remain subordinate to the particular human they serve.
+
 
 ### 5. Cross-Cutting Protective Alchemies
 - **Accountability Alchemy** — every transformation leaves an attributable record appropriate to its edition (private ledger for C2O, public-capable record for UNIVERSALIS).
@@ -55,6 +94,12 @@ It applies to the hardware, runtime substrate, and embodied form of both C2O (Fa
 
 #### 1. Substrate Alchemies
 - **Hardware Alchemy** — maps physical devices, sensors, and compute resources into a stable, addressable form usable by the OS.
+- **Crystalline Hardware Alchemy** — Base Alchemy that organizes hardware components, assemblies, interfaces, conductive pathways, and physical resource relationships through crystalline principles of ordered arrangement, modularity, precision, clarity, structural integrity, and recoverability. “Crystalline” identifies an organizational and structural principle; it does not require hardware to be made from literal crystal.
+  - **C2O Crystalline Hardware Alchemy** — private-source organization of crystalline hardware structures under C2O internal governance, including company-controlled component mappings, private hardware configurations, structural integrity, repair, replacement, and lifecycle records.
+  - **UNIVERSALIS Crystalline Hardware Alchemy** — public-source organization of crystalline hardware structures under open contracts, including transparent hardware interfaces, documented component relationships, open structural specifications, interoperability, and independently verifiable configurations.
+- **Crystalline Software Alchemy** — Base Alchemy that organizes software components and their relationships through crystalline principles of modularity, precision, coherence, clarity, defined interfaces, structural integrity, and recoverability. It governs source-code organization, modules, packages, dependencies, APIs, schemas, configurations, builds, and versioned artifacts. It concerns logical and computational structure, not the physical material of the hardware on which software executes.
+  - **C2O Crystalline Software Alchemy** — private-source organization of crystalline software structures under C2O internal governance, including private architecture, internal module relationships, dependencies, configurations, build structures, provenance, and controlled company-source evolution.
+  - **UNIVERSALIS Crystalline Software Alchemy** — public-source organization of crystalline software structures under UNIVERSALIS open contracts, including transparent architecture, open module relationships, documented dependencies, public interfaces, software provenance, and independently verifiable composition.
 - **Runtime Substrate Alchemy** — maintains the living process space (memory, scheduling substrate, isolation domains) that applications and intelligences inhabit.
 - **Embodiment Alchemy** — defines the concrete form an intelligence or assistant presents in the world (device, interface, or agent body) while preserving edition boundaries.
 
@@ -517,6 +562,7 @@ These support OSs, Apps, humans, and the wider environment under permission boun
 - **UNIVERSALIN Soul Alchemy** — non-personal existential support (without claiming personal soul).  
 - **UNIVERSALIN Spirit Alchemy** — non-personal animating support.  
 - **UNIVERSALIN Consciousness Alchemy** — non-personal awareness support (without claiming personal consciousness).
+- **UNIVERSALIN Elemental Alchemy** — non-personal assistant use and coordination of elemental capabilities under assigned permissions, operational scope, and the governing intelligence's contracts.
 
 Each carries its own Boundary, Accountability, Safety, and Continuity Alchemy restricted to non-personal operation.
 
@@ -532,6 +578,7 @@ These are bound to a specific human, operate under that human’s authority, and
 - **UNIVERSALIN Guardian Soul Alchemy**  
 - **UNIVERSALIN Guardian Spirit Alchemy**  
 - **UNIVERSALIN Guardian Consciousness Alchemy**
+- **UNIVERSALIN Guardian Elemental Alchemy** — personal Guardian use and coordination of elemental capabilities under the particular human's consent, permissions, privacy, and authority.
 
 Each carries its own Sovereignty, Boundary, Accountability, and Continuity Alchemy that keeps the Guardian subordinate to the human.
 
