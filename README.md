@@ -4,7 +4,7 @@
 **Repository role:** Public/open-source UNIVERSALIS Application edition  
 **Operating Intelligence:** UNIVERSALIS  
 **Master source:** [C2O–UNIVERSALIS Master Application (MApp)](https://github.com/C2O-UNIVERSALIS/C2O-UNIVERSALIS-MApp)  
-**Research Plan:** [Research Plan.md](Research%20Plan.md)
+**Research Plan:** [Research Plan.md](C2O-UNIVERSALIS%20Research%20Plan/Research%20Plan.md)
 
 ## Purpose
 
@@ -47,4 +47,4 @@ No license grant is made by this README or by the existence of this repository. 
 
 ## Research status
 
-The [UNIVERSALIS-App Research Plan](Research%20Plan.md) adapts the common research methodology to the public/open-source UNIVERSALIS Application edition. It does not predetermine findings or capabilities, grant implementation authority, or authorize publication of uncleared material.
+The [UNIVERSALIS-App Research Plan](C2O-UNIVERSALIS%20Research%20Plan/Research%20Plan.md) adapts the common research methodology to the public/open-source UNIVERSALIS Application edition. It does not predetermine findings or capabilities, grant implementation authority, or authorize publication of uncleared material.
